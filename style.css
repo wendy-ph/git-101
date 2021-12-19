@@ -1,0 +1,9 @@
+body {
+	font-family: helvetica;
+	marign:  0;
+}
+
+#logo {
+	height: 80px;
+	width: 80px;
+}
